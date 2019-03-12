@@ -11,7 +11,7 @@ URL = 'http://m.mlb.com/gen/players/prospects/2019/playerProspects.json'  # no h
 
 
 def scrape_mlb():
-    """Extracts player data from BP
+    """Extracts player data from MLB
     """
 
     # we are scraping JSON here, not HTML - no special handlers required
